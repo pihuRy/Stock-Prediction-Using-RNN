@@ -1,5 +1,4 @@
 # Stock-Prediction-Using-RNN
-#Description 
 Stock market investors continuously search for innovative approaches to anticipate stock price movements and generate profits. Recurrent neural networks (RNNs) are used in time series analysis for predicting stock prices. This study utilizes various RNN types to estimate the stocks of the top-five Indian software industry companies, considering different trends and price ranges.
 
 Companies:
